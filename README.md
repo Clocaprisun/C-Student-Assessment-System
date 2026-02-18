@@ -2,8 +2,8 @@
 A GUI-based application to manage student records, enrollments, and performance evaluations using C++ and the nana library.
 
 **Note:** 
-	- You have to install nana GUI library from GitHub and put the folder in the external folder
-	- This project was developed locally, and the files were uploaded to GitHub as a mostly completed package. The commit history does not reflect the development of the project.
+- You have to install nana GUI library from GitHub and put the folder in the external folder
+- This project was developed locally, and the files were uploaded to GitHub as a mostly completed package. The commit history does not reflect the development of the project.
 
 ## Features
 - user input
